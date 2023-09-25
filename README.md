@@ -6,4 +6,4 @@ My diverse experience has allowed me to gain a comprehensive understanding of bu
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=CesarABaron&theme=dark)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarABaron&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
