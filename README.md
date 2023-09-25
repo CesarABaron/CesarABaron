@@ -5,3 +5,5 @@ My most recent leap led me to start a career in the field of full-stack web deve
 My diverse experience has allowed me to gain a comprehensive understanding of business and technology, enabling me to approach challenges in a creative and effective manner. I am excited about the opportunity to bring this valuable combination of skills and perspectives to a new team and contribute to the success of my next employer.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=CesarABaron&theme=dark)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarABaron&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
